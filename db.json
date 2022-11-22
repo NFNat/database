@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Tala",
+      "imageUrl": "../assets/algarrobo.jpg",
+      "description": "frutal nativo",
+      "price": "200",
+      "id": "4f2839a5-438b-4d88-95ae-e21afac63b3e"
+    },
+    {
+      "name": "algarrobo",
+      "imageUrl": "../assets/algarrobo.jpg",
+      "description": "Es una semilla",
+      "price": "200",
+      "id": "910fde0c-ef09-4fc5-9333-5cbc95f979f2"
+    },
+    {
+      "name": "sarasa",
+      "imageUrl": "../assets/algarrobo.jpg",
+      "description": "una planta",
+      "price": "113",
+      "id": "ff6ae4ef-969a-4e74-82b9-2c343850089c"
+    },
+    {
+      "name": "planta 3",
+      "imageUrl": "../assets/algarrobo.jpg",
+      "description": "otra planta",
+      "price": "115",
+      "id": "a5f880ef-96be-48aa-b021-894e3d564f5a"
+    }
+  
+  ]
